@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: SpringLogginDemo
+
+
+logging:
+  level:
+    root: TRACE #The logging level for the entire application
+    com.example: INFO #The logging level for the com.example package
+  pattern:
+    console: "%clr(%d{yyyy-MM-dd HH:mm:ss}){faint} %clr(%-5level) %clr(---){faint} %clr([%15.15thread]){magenta} %clr(%-40.40logger{39}){cyan}:%msg%n"
+    file: "[%-5level] %d{yyyy-MM-dd HH:mm:ss} --- %-40.40logger{39}:%msg%n"
+  file:
+    name: logs/application.logs
