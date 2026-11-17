@@ -1,0 +1,20 @@
+2026-09-09 23:50:43.381 [restartedMain] INFO  c.m.B29Sb201Ex21HttpRequestMethod - Starting B29Sb201Ex21HttpRequestMethod using Java 25.0.3 with PID 30932 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_21_Http_Request\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_21_Http_Request)
+2026-09-09 23:50:43.385 [restartedMain] INFO  c.m.B29Sb201Ex21HttpRequestMethod - No active profile set, falling back to 1 default profile: "default"
+2026-09-09 23:50:44.393 [restartedMain] INFO  c.m.controller.CarController - Cars Initialized
+2026-09-09 23:50:44.405 [restartedMain] INFO  c.m.controller.StudentController - Student list initialized
+2026-09-09 23:50:44.707 [restartedMain] INFO  c.m.B29Sb201Ex21HttpRequestMethod - Started B29Sb201Ex21HttpRequestMethod in 1.846 seconds (process running for 2.179)
+2026-09-09 23:50:57.931 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Getting all student list
+2026-09-09 23:51:19.447 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Getting details of student having roll-number 1
+2026-09-09 23:51:32.337 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Getting details of student having roll-number 10
+2026-09-09 23:51:39.493 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Getting details of student having roll-number 1
+2026-09-09 23:52:09.242 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Getting student in the marks range 80 - 95
+2026-09-09 23:53:09.497 [http-nio-8080-exec-8] INFO  c.m.controller.StudentController - Adding student with rollno 4
+2026-09-09 23:53:31.949 [http-nio-8080-exec-7] INFO  c.m.controller.StudentController - Getting details of student having roll-number 1
+2026-09-09 23:54:03.142 [http-nio-8080-exec-9] INFO  c.m.controller.StudentController - Upsert operation for student with roll no 1
+2026-09-09 23:54:16.829 [http-nio-8080-exec-10] INFO  c.m.controller.StudentController - Getting details of student having roll-number 1
+2026-09-09 23:54:43.886 [http-nio-8080-exec-1] INFO  c.m.controller.StudentController - Update the name to pqr of student with rollno 1
+2026-09-09 23:54:56.209 [http-nio-8080-exec-2] INFO  c.m.controller.StudentController - Getting details of student having roll-number 1
+2026-09-09 23:55:12.082 [http-nio-8080-exec-3] INFO  c.m.controller.StudentController - Getting details of student having roll-number 1
+2026-09-09 23:55:26.068 [http-nio-8080-exec-4] INFO  c.m.controller.StudentController - Deleting student with roll no 1
+2026-09-09 23:55:37.743 [http-nio-8080-exec-5] INFO  c.m.controller.StudentController - Getting all student list
+2026-09-09 23:56:59.358 [http-nio-8080-exec-6] INFO  c.m.controller.CarController - Getting details of car having carid 101
