@@ -1,0 +1,8 @@
+2026-11-17 12:27:19.984 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - Starting SpringLogginDifferentLevelDifferentFileApplication using Java 25.0.3 with PID 34920 (C:\Users\kapil\Downloads\SpringLogginDifferentLevelDifferentFile\target\classes started by kapil in C:\Users\kapil\Downloads\SpringLogginDifferentLevelDifferentFile)
+2026-11-17 12:27:19.985 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 12:27:20.266 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - Started SpringLogginDifferentLevelDifferentFileApplication in 0.662 seconds (process running for 0.92)
+2026-11-17 12:27:20.268 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - This is a INFO message
+2026-11-17 12:31:37.074 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - Starting SpringLogginDifferentLevelDifferentFileApplication using Java 25.0.2 with PID 30284 (C:\Users\kapil\Downloads\SpringLogginDifferentLevelDifferentFile\target\classes started by kapil in C:\Users\kapil\Downloads\SpringLogginDifferentLevelDifferentFile)
+2026-11-17 12:31:37.077 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 12:31:37.498 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - Started SpringLogginDifferentLevelDifferentFileApplication in 0.754 seconds (process running for 0.968)
+2026-11-17 12:31:37.501 [main] INFO  c.e.SpringLogginDifferentLevelDifferentFileApplication - This is a INFO message
