@@ -1,0 +1,10 @@
+2026-11-17 19:14:42.680 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Starting B29Sb201Ex22ExceptionHandlingApplication using Java 25.0.3 with PID 27936 (C:\Users\kapil\Downloads\Spring_Exception_Handling\target\classes started by kapil in C:\Users\kapil\Downloads\Spring_Exception_Handling)
+2026-11-17 19:14:42.685 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 19:14:43.295 [restartedMain] INFO  c.e.controller.StudentController - Initializing the Student List
+2026-11-17 19:14:43.468 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Started B29Sb201Ex22ExceptionHandlingApplication in 1.183 seconds (process running for 1.469)
+2026-11-17 19:14:55.108 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - Student with roll number 10 found
+2026-11-17 19:16:59.395 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Starting B29Sb201Ex22ExceptionHandlingApplication using Java 25.0.2 with PID 31692 (C:\Users\kapil\Downloads\Spring_Exception_Handling\target\classes started by kapil in C:\Users\kapil\Downloads\Spring_Exception_Handling)
+2026-11-17 19:16:59.398 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 19:16:59.983 [restartedMain] INFO  c.e.controller.StudentController - Initializing the Student List
+2026-11-17 19:17:00.159 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Started B29Sb201Ex22ExceptionHandlingApplication in 1.115 seconds (process running for 1.39)
+2026-11-17 19:17:20.542 [http-nio-8080-exec-3] INFO  c.e.controller.StudentController - Student with roll number 10 found

@@ -1,0 +1,2 @@
+2026-11-17 19:15:14.524 [http-nio-8080-exec-3] ERROR c.e.exception.GlobalExceptionHandler - No Student found with roll number 100
+2026-11-17 19:17:17.404 [http-nio-8080-exec-2] ERROR c.e.exception.GlobalExceptionHandler - No Student found with roll number 100

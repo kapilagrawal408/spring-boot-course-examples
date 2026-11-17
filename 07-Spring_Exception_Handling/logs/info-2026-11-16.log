@@ -1,0 +1,9 @@
+2026-09-10 11:31:12.306 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Starting B29Sb201Ex22ExceptionHandlingApplication using Java 25.0.3 with PID 25848 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_22_Exception_Handling\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_22_Exception_Handling)
+2026-09-10 11:31:12.307 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 11:31:12.556 [restartedMain] INFO  c.e.controller.StudentController - Initializing the Student List
+2026-09-10 11:31:12.626 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Started B29Sb201Ex22ExceptionHandlingApplication in 0.369 seconds (process running for 37.395)
+2026-09-10 11:31:22.960 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Starting B29Sb201Ex22ExceptionHandlingApplication using Java 25.0.3 with PID 34712 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_22_Exception_Handling\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_22_Exception_Handling)
+2026-09-10 11:31:22.968 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 11:31:24.084 [restartedMain] INFO  c.e.controller.StudentController - Initializing the Student List
+2026-09-10 11:31:24.426 [restartedMain] INFO  c.e.B29Sb201Ex22ExceptionHandlingApplication - Started B29Sb201Ex22ExceptionHandlingApplication in 2.12 seconds (process running for 2.789)
+2026-09-10 11:31:35.120 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - Student with roll number 10 found
