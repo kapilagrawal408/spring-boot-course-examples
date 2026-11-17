@@ -1,0 +1,54 @@
+2026-09-10 12:03:35.480 [http-nio-8080-exec-1] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollNo" : "Roll number must have a positive value",
+  "marks" : "Mark cannot have a negative value"
+}
+2026-09-10 12:04:42.811 [http-nio-8080-exec-5] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollno" : "Roll number must be between 1 and 100"
+}
+2026-09-10 12:05:27.085 [http-nio-8080-exec-2] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollno" : "Roll number must be between 1 and 100"
+}
+2026-09-10 12:54:57.669 [http-nio-8080-exec-2] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollNo" : "Roll number must have a positive value",
+  "marks" : "Mark cannot have a negative value"
+}
+2026-09-10 12:57:10.937 [http-nio-8080-exec-1] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollNo" : "Roll number must have a positive value",
+  "marks" : "Mark cannot have a negative value"
+}
+2026-09-10 12:58:51.957 [http-nio-8080-exec-5] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollno" : "Roll number must be between 1 and 100"
+}
+2026-09-10 12:59:13.667 [http-nio-8080-exec-6] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "name" : "Name is mandatory",
+  "marks" : "Mark cannot have a negative value"
+}
+2026-09-10 12:59:33.154 [http-nio-8080-exec-8] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollno" : "Roll number must be between 1 and 100"
+}
+2026-11-17 20:47:01.124 [http-nio-8080-exec-1] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollNo" : "Roll number must have a positive value",
+  "marks" : "Mark cannot have a negative value"
+}
+2026-11-17 20:47:50.047 [http-nio-8080-exec-8] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollno" : "Roll number must be between 1 and 100"
+}
+2026-11-17 20:48:11.470 [http-nio-8080-exec-10] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "name" : "Name is mandatory",
+  "marks" : "Mark cannot have a negative value"
+}
+2026-11-17 20:48:44.527 [http-nio-8080-exec-4] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "rollno" : "Roll number must be between 1 and 100"
+}
