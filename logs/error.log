@@ -1,0 +1,36 @@
+2026-09-10 12:23:04.411 [http-nio-8080-exec-1] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "mobile" : "Invalid mobile number",
+  "name" : "Customer name must be of two characters at least",
+  "id" : "Customer id must be a positive value"
+}
+2026-09-10 13:08:42.851 [http-nio-8080-exec-2] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "mobile" : "Invalid mobile number",
+  "name" : "Customer name must be of two characters at least",
+  "id" : "Customer id must be a positive value"
+}
+2026-11-17 14:28:42.001 [http-nio-8080-exec-2] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "name" : "Customer name must be of two characters at least",
+  "mobile" : "Invalid mobile number",
+  "id" : "Customer id must be a positive value"
+}
+2026-11-17 14:34:24.071 [http-nio-8080-exec-5] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "mobile" : "Invalid mobile number",
+  "name" : "Customer name must be of two characters at least",
+  "id" : "Customer id must be a positive value"
+}
+2026-11-17 14:42:17.810 [http-nio-8080-exec-2] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "mobile" : "Invalid mobile number",
+  "name" : "Customer name must be of two characters at least",
+  "id" : "Customer id must be a positive value"
+}
+2026-11-17 14:42:49.360 [http-nio-8080-exec-1] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "name" : "Customer name must be of two characters at least",
+  "mobile" : "Invalid mobile number",
+  "id" : "Customer id must be a positive value"
+}
