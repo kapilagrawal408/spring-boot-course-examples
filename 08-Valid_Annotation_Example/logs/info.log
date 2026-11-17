@@ -1,0 +1,35 @@
+2026-09-10 12:22:24.049 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.3 with PID 27420 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_23_A_Validation\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_23_A_Validation)
+2026-09-10 12:22:24.052 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 12:22:25.200 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-09-10 12:22:25.553 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 2.192 seconds (process running for 2.758)
+2026-09-10 13:07:59.159 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.3 with PID 11912 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_23_A_Validation\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_23_A_Validation)
+2026-09-10 13:07:59.160 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 13:07:59.718 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-09-10 13:07:59.885 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 1.121 seconds (process running for 1.348)
+2026-09-10 20:59:39.180 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.3 with PID 26104 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_23_A_Validation\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_23_A_Validation)
+2026-09-10 20:59:39.183 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 20:59:40.129 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-09-10 20:59:40.649 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 2.064 seconds (process running for 2.457)
+2026-11-17 14:28:03.460 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.3 with PID 10344 (C:\Users\kapil\Downloads\B29_SB201_Ex_23_A_Validation\target\classes started by kapil in C:\Users\kapil\Downloads\B29_SB201_Ex_23_A_Validation)
+2026-11-17 14:28:03.464 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 14:28:04.747 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-11-17 14:28:05.291 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 2.634 seconds (process running for 3.225)
+2026-11-17 14:34:15.822 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.3 with PID 34776 (C:\Users\kapil\Downloads\Valid_Annotation_Example\target\classes started by kapil in C:\Users\kapil\Downloads\Valid_Annotation_Example)
+2026-11-17 14:34:15.827 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 14:34:17.063 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-11-17 14:34:17.583 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 2.432 seconds (process running for 2.817)
+2026-11-17 14:41:27.184 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.2 with PID 7380 (C:\Users\kapil\Downloads\Valid_Annotation_Example\target\classes started by kapil in C:\Users\kapil\Downloads\Valid_Annotation_Example)
+2026-11-17 14:41:27.187 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 14:41:28.237 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-11-17 14:42:09.535 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.3 with PID 26024 (C:\Users\kapil\Downloads\Valid_Annotation_Example\target\classes started by kapil in C:\Users\kapil\Downloads\Valid_Annotation_Example)
+2026-11-17 14:42:09.539 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 14:42:10.863 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-11-17 14:42:11.705 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 2.76 seconds (process running for 3.139)
+2026-11-17 14:42:42.114 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.2 with PID 25316 (C:\Users\kapil\Downloads\Valid_Annotation_Example\target\classes started by kapil in C:\Users\kapil\Downloads\Valid_Annotation_Example)
+2026-11-17 14:42:42.117 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 14:42:43.187 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-11-17 14:42:43.729 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 2.152 seconds (process running for 2.525)
+2026-11-17 14:49:41.015 [main] INFO  c.e.ValidationPracticeSpringApplication - Starting ValidationPracticeSpringApplication using Java 25.0.2 with PID 35624 (C:\Users\kapil\Downloads\Valid_Annotation_Example\target\classes started by kapil in C:\Users\kapil\Downloads\Valid_Annotation_Example)
+2026-11-17 14:49:41.022 [main] INFO  c.e.ValidationPracticeSpringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-17 14:49:42.625 [main] INFO  c.e.controller.CustomerController - Setting the customer info
+2026-11-17 14:49:43.321 [main] INFO  c.e.ValidationPracticeSpringApplication - Started ValidationPracticeSpringApplication in 3.391 seconds (process running for 3.706)
