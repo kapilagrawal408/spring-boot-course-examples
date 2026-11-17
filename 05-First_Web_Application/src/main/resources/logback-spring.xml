@@ -64,7 +64,7 @@
   
   <!-- 6. Application Logger (Your Code) -->
   <!-- Process these logs here, and then STOP. Do not pass them up to the root logger. -->
-  <logger name="com.masaischool" additivity="false" level="INFO">
+  <logger name="com.example" additivity="false" level="INFO">
     <appender-ref ref="CONSOLE"/>
     <appender-ref ref="LOG_INFO"/>
     <appender-ref ref="LOG_ERROR"/>
