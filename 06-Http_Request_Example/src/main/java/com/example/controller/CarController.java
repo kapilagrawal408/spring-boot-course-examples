@@ -23,9 +23,9 @@ public class CarController {
     @PostConstruct
     public void init() {
     		log.info("Cars Initialized");
-        cars.add(new Car("101", "Sedan", "red", 2020, Arrays.asList("sunroof", "navigation")));
-        cars.add(new Car("102", "SUV", "blue", 2021, Arrays.asList("leather seats", "4WD")));
-        cars.add(new Car("103", "Hatchback", "red", 2019, Arrays.asList("bluetooth")));
+        cars.add(new Car("101", "Sedan", "red", Integer.valueOf(2020) , Arrays.asList("sunroof", "navigation")));
+        cars.add(new Car("102", "SUV", "blue", Integer.valueOf(2021), Arrays.asList("leather seats", "4WD")));
+        cars.add(new Car("103", "Hatchback", "red", Integer.valueOf(2019), Arrays.asList("bluetooth")));
     }
 
     /**

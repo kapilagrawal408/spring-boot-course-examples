@@ -16,6 +16,6 @@ public class Car {
     private String id;
     private String model;
     private String color;
-    private int year;
+    private Integer year;
     private List<String> options;
 }

@@ -12,7 +12,7 @@ import lombok.ToString;
 @Getter
 @ToString
 public class Student {
-	private int rollNo;
+	private Integer rollNo;
 	private String name;
-	private double marks;
+	private Double marks;
 }

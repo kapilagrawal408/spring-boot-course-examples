@@ -252,3 +252,9 @@ GET http://localhost:8080/students
     }
 ]
 ```
+
+GET http://localhost:8080/cars/101;color=red;year=2020;options=sunroof,navigation
+
+```
+Found car: Car(id=101, model=Sedan, color=red, year=2020, options=[sunroof, navigation])
+```

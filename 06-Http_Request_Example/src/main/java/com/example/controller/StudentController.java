@@ -32,9 +32,9 @@ public class StudentController {
 	@PostConstruct	
 	public void startUp() {
 		log.info("Student list initialized");
-		listStudent.add(new Student(1, "ABC", 75.00));
-		listStudent.add(new Student(2, "BCD", 85.00));
-		listStudent.add(new Student(3, "CDE", 95.00));
+		listStudent.add(new Student(Integer.valueOf(1), "ABC", Double.valueOf(75.00)));
+		listStudent.add(new Student(Integer.valueOf(2), "BCD", Double.valueOf(85.00)));
+		listStudent.add(new Student(Integer.valueOf(3), "CDE", Double.valueOf(95.00)));
 	}
 	
 	@GetMapping("/students")
