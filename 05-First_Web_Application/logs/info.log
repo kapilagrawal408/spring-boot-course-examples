@@ -1,0 +1,4 @@
+2026-09-09 13:57:02.450 [restartedMain] INFO  c.m.B.B29Sb201Ex20FirstWebApplication - Starting B29Sb201Ex20FirstWebApplication using Java 25.0.3 with PID 8676 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_20_First_Web_Application\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\B29_SB201_Ex_20_First_Web_Application)
+2026-09-09 13:57:02.452 [restartedMain] INFO  c.m.B.B29Sb201Ex20FirstWebApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-09 13:57:03.763 [restartedMain] INFO  c.m.B.B29Sb201Ex20FirstWebApplication - Started B29Sb201Ex20FirstWebApplication in 1.907 seconds (process running for 2.39)
+2026-09-09 13:57:22.526 [http-nio-8080-exec-1] INFO  c.m.B.controller.HelloController - inside getMessage using GET request, this is simple
