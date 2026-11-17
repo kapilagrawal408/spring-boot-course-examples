@@ -1,0 +1,2 @@
+2026-11-17 12:27:20.268 [main] ERROR c.e.SpringLogginDifferentLevelDifferentFileApplication - This is a ERROR message
+2026-11-17 12:31:37.501 [main] ERROR c.e.SpringLogginDifferentLevelDifferentFileApplication - This is a ERROR message
