@@ -1,0 +1,134 @@
+2026-09-11 11:33:51.155 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 27008 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 11:33:51.167 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 11:33:58.288 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 7.774 seconds (process running for 8.649)
+2026-09-11 20:31:45.285 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:31:45.287 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:31:48.687 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 3.839 seconds (process running for 4.193)
+2026-09-11 20:32:46.245 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - inside com.example.controller.StudentController.registerStudent
+2026-09-11 20:32:46.261 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.addStudent
+2026-09-11 20:32:46.261 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - From studentDTO, entity savedStudent created successfully
+2026-09-11 20:32:46.380 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Student created successfully
+2026-09-11 20:32:46.380 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - From savedStudent entity, studentDTO created successfully
+2026-09-11 20:32:46.380 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.addStudent
+2026-09-11 20:32:46.403 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.registerStudent
+2026-09-11 20:33:21.255 [http-nio-8080-exec-2] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.getStudents
+2026-09-11 20:33:21.257 [http-nio-8080-exec-2] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.viewStudents
+2026-09-11 20:33:21.371 [http-nio-8080-exec-2] INFO  c.example.service.StudentServiceImpl - all students fetched from database
+2026-09-11 20:33:21.375 [http-nio-8080-exec-2] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.viewStudents
+2026-09-11 20:33:21.379 [http-nio-8080-exec-2] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.getStudents
+2026-09-11 20:33:35.367 [http-nio-8080-exec-3] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.getStudents
+2026-09-11 20:33:35.369 [http-nio-8080-exec-3] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.getStudentByRollNo
+2026-09-11 20:33:35.386 [http-nio-8080-exec-3] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.getStudentByRollNo
+2026-09-11 20:33:35.387 [http-nio-8080-exec-3] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.getStudents
+2026-09-11 20:34:02.033 [http-nio-8080-exec-5] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.updateNameAndMarks
+2026-09-11 20:34:02.035 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:34:02.055 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Student whose roll number 1 has new name PQR and percentage 85.25
+2026-09-11 20:34:02.056 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:34:02.065 [http-nio-8080-exec-5] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.updateNameAndMarks
+2026-09-11 20:35:04.286 [http-nio-8080-exec-6] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.deleteStudent
+2026-09-11 20:35:04.289 [http-nio-8080-exec-6] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:35:04.295 [http-nio-8080-exec-6] INFO  c.example.service.StudentServiceImpl - Student with roll number 1 deleted
+2026-09-11 20:35:04.296 [http-nio-8080-exec-6] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:35:04.315 [http-nio-8080-exec-6] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.deleteStudent
+2026-09-11 20:38:34.561 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:38:34.562 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:38:37.053 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:38:37.054 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:38:38.148 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 1.182 seconds (process running for 413.654)
+2026-09-11 20:38:50.952 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:38:50.952 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:38:51.663 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.754 seconds (process running for 427.169)
+2026-09-11 20:38:54.258 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:38:54.258 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:38:54.984 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.765 seconds (process running for 430.49)
+2026-09-11 20:41:09.675 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:41:09.676 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:41:10.442 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.857 seconds (process running for 565.948)
+2026-09-11 20:45:05.068 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:45:05.068 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:45:05.834 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.82 seconds (process running for 801.34)
+2026-09-11 20:45:23.703 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:45:23.704 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:45:24.416 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.746 seconds (process running for 819.922)
+2026-09-11 20:45:29.038 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 21328 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:45:29.039 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:45:29.743 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.741 seconds (process running for 825.249)
+2026-09-11 20:45:43.733 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 20460 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:45:43.736 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:45:49.763 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 6.615 seconds (process running for 7.516)
+2026-09-11 20:47:01.630 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 20460 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:47:01.630 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:47:02.525 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.949 seconds (process running for 80.277)
+2026-09-11 20:47:27.498 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 20460 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:47:27.498 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:47:28.344 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.888 seconds (process running for 106.097)
+2026-09-11 20:47:31.007 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 20460 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:47:31.007 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:47:31.853 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 0.915 seconds (process running for 109.606)
+2026-09-11 20:54:01.767 [http-nio-8080-exec-2] INFO  c.e.controller.StudentController - inside com.example.controller.StudentController.registerStudent
+2026-09-11 20:54:01.780 [http-nio-8080-exec-2] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.addStudent
+2026-09-11 20:54:01.781 [http-nio-8080-exec-2] INFO  c.example.service.StudentServiceImpl - From studentDTO, entity savedStudent created successfully
+2026-09-11 20:54:44.602 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.3 with PID 6676 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAPractice)
+2026-09-11 20:54:44.607 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 20:54:50.517 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 6.805 seconds (process running for 7.661)
+2026-09-11 20:54:56.350 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - inside com.example.controller.StudentController.registerStudent
+2026-09-11 20:54:56.363 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.addStudent
+2026-09-11 20:54:56.364 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - From studentDTO, entity savedStudent created successfully
+2026-09-11 20:54:56.447 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Student created successfully
+2026-09-11 20:54:56.448 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - From savedStudent entity, studentDTO created successfully
+2026-09-11 20:54:56.448 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.addStudent
+2026-09-11 20:54:56.472 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.registerStudent
+2026-09-11 20:55:12.851 [http-nio-8080-exec-3] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.getStudents
+2026-09-11 20:55:12.857 [http-nio-8080-exec-3] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.viewStudents
+2026-09-11 20:55:12.973 [http-nio-8080-exec-3] INFO  c.example.service.StudentServiceImpl - all students fetched from database
+2026-09-11 20:55:12.976 [http-nio-8080-exec-3] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.viewStudents
+2026-09-11 20:55:12.982 [http-nio-8080-exec-3] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.getStudents
+2026-09-11 20:55:23.079 [http-nio-8080-exec-4] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.getStudents
+2026-09-11 20:55:23.081 [http-nio-8080-exec-4] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.getStudentByRollNo
+2026-09-11 20:55:23.097 [http-nio-8080-exec-4] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.getStudentByRollNo
+2026-09-11 20:55:23.099 [http-nio-8080-exec-4] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.getStudents
+2026-09-11 20:55:53.536 [http-nio-8080-exec-5] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.updateNameAndMarks
+2026-09-11 20:55:53.544 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:55:53.573 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Student whose roll number 1 has new name PQR and percentage 85.25
+2026-09-11 20:55:53.573 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:55:53.583 [http-nio-8080-exec-5] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.updateNameAndMarks
+2026-09-11 20:56:09.446 [http-nio-8080-exec-6] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.deleteStudent
+2026-09-11 20:56:09.451 [http-nio-8080-exec-6] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:56:09.458 [http-nio-8080-exec-6] INFO  c.example.service.StudentServiceImpl - Student with roll number 1 deleted
+2026-09-11 20:56:09.458 [http-nio-8080-exec-6] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.deleteStudent
+2026-09-11 20:56:09.477 [http-nio-8080-exec-6] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.deleteStudent
+2026-11-18 23:37:09.039 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.2 with PID 41692 (C:\Users\kapil\Downloads\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAPractice)
+2026-11-18 23:37:09.043 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-18 23:37:14.632 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 6.208 seconds (process running for 6.648)
+2026-11-18 23:38:58.302 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - inside com.example.controller.StudentController.registerStudent
+2026-11-18 23:38:58.325 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.addStudent
+2026-11-18 23:38:58.325 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - From studentDTO, entity savedStudent created successfully
+2026-11-18 23:38:58.474 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Student created successfully
+2026-11-18 23:38:58.475 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - From savedStudent entity, studentDTO created successfully
+2026-11-18 23:38:58.476 [http-nio-8080-exec-1] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.addStudent
+2026-11-18 23:38:58.504 [http-nio-8080-exec-1] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.registerStudent
+2026-11-18 23:40:09.870 [http-nio-8080-exec-5] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.getStudents
+2026-11-18 23:40:09.878 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.viewStudents
+2026-11-18 23:40:10.004 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - all students fetched from database
+2026-11-18 23:40:10.009 [http-nio-8080-exec-5] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.viewStudents
+2026-11-18 23:40:10.012 [http-nio-8080-exec-5] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.getStudents
+2026-11-18 23:40:24.821 [http-nio-8080-exec-8] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.getStudents
+2026-11-18 23:40:24.827 [http-nio-8080-exec-8] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.getStudentByRollNo
+2026-11-18 23:40:24.845 [http-nio-8080-exec-8] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.getStudentByRollNo
+2026-11-18 23:40:24.848 [http-nio-8080-exec-8] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.getStudents
+2026-11-18 23:41:06.316 [http-nio-8080-exec-10] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.updateNameAndMarks
+2026-11-18 23:41:06.324 [http-nio-8080-exec-10] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.deleteStudent
+2026-11-18 23:41:06.358 [http-nio-8080-exec-10] INFO  c.example.service.StudentServiceImpl - Student whose roll number 1 has new name PQR and percentage 85.25
+2026-11-18 23:41:06.358 [http-nio-8080-exec-10] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.deleteStudent
+2026-11-18 23:41:06.363 [http-nio-8080-exec-10] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.updateNameAndMarks
+2026-11-18 23:41:35.266 [http-nio-8080-exec-4] INFO  c.e.controller.StudentController - Inside com.example.controller.StudentController.deleteStudent
+2026-11-18 23:41:35.269 [http-nio-8080-exec-4] INFO  c.example.service.StudentServiceImpl - Inside com.example.service.StudentServiceImpl.deleteStudent
+2026-11-18 23:41:35.274 [http-nio-8080-exec-4] INFO  c.example.service.StudentServiceImpl - Student with roll number 1 deleted
+2026-11-18 23:41:35.275 [http-nio-8080-exec-4] INFO  c.example.service.StudentServiceImpl - Leaving com.example.service.StudentServiceImpl.deleteStudent
+2026-11-18 23:41:35.293 [http-nio-8080-exec-4] INFO  c.e.controller.StudentController - Leaving com.example.controller.StudentController.deleteStudent
+2026-11-18 23:41:42.686 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.2 with PID 41692 (C:\Users\kapil\Downloads\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAPractice)
+2026-11-18 23:41:42.687 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-18 23:41:43.981 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 1.362 seconds (process running for 275.997)
+2026-11-18 23:43:25.339 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Starting SpringDataJpaPracticeApplication using Java 25.0.2 with PID 21140 (C:\Users\kapil\Downloads\SpringDataJPAPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAPractice)
+2026-11-18 23:43:25.342 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-18 23:43:30.862 [restartedMain] INFO  c.e.SpringDataJpaPracticeApplication - Started SpringDataJpaPracticeApplication in 6.074 seconds (process running for 6.557)
