@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: SpringDataJPAPractice
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${DB_USER:root}
+    password: ${DB_PASSWORD:root}
+    url: jdbc:mysql://localhost:3306/${DB_NAME:SpringDataJPAPractice}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  web:
+    resources:
+      add-mappings: false
+  #mvc: (Not needed in spring 6.1 and onwards)
+    #throw-exception-if-no-handler-found: true (Not needed in spring 6.1 and onwards)
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    url: /api-docs
+    operationsSorter: method
