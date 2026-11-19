@@ -1,0 +1,94 @@
+2026-09-10 17:48:11.331 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 17:48:11.336 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 17:48:16.447 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 5.826 seconds (process running for 6.445)
+2026-09-10 17:50:31.758 [http-nio-8080-exec-4] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.addDepartment
+2026-09-10 17:50:31.769 [http-nio-8080-exec-4] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.addDepartment
+2026-09-10 17:50:31.902 [http-nio-8080-exec-4] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.addDepartment
+
+2026-09-10 17:50:31.911 [http-nio-8080-exec-4] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.addDepartment
+
+2026-09-10 17:51:00.593 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 17:51:00.594 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 17:51:01.429 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.881 seconds (process running for 171.427)
+2026-09-10 17:51:40.971 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.addDepartment
+2026-09-10 17:51:40.974 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.addDepartment
+2026-09-10 17:51:40.980 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.addDepartment
+
+2026-09-10 17:51:40.990 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.addDepartment
+
+2026-09-10 17:52:15.602 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 17:52:15.602 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 17:52:16.425 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.862 seconds (process running for 246.424)
+2026-09-10 17:52:40.134 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartments
+2026-09-10 17:52:40.137 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartments
+2026-09-10 17:52:40.301 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartments
+
+2026-09-10 17:52:40.304 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartments
+
+2026-09-10 17:53:16.303 [http-nio-8080-exec-3] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentById
+2026-09-10 17:53:16.305 [http-nio-8080-exec-3] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentById
+2026-09-10 17:53:16.323 [http-nio-8080-exec-3] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentById
+
+2026-09-10 17:53:16.325 [http-nio-8080-exec-3] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentById
+
+2026-09-10 18:45:19.374 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:45:19.375 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:45:19.782 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.429 seconds (process running for 3429.78)
+2026-09-10 18:46:56.939 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentsWithNoEmployees
+2026-09-10 18:46:56.940 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithNoEmployees
+2026-09-10 18:46:56.971 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithNoEmployees
+
+2026-09-10 18:46:56.971 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentsWithNoEmployees
+
+2026-09-10 18:47:13.924 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:47:13.924 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:47:14.191 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.281 seconds (process running for 3544.19)
+2026-09-10 18:47:17.700 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:47:17.700 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:47:17.966 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.285 seconds (process running for 3547.965)
+2026-09-10 18:47:24.559 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:47:24.559 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:47:24.832 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.289 seconds (process running for 3554.831)
+2026-09-10 18:47:27.926 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentsWithEmployees
+2026-09-10 18:47:27.927 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithAtLeastOneEmployees
+2026-09-10 18:47:27.934 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithAtLeastOneEmployees
+
+2026-09-10 18:47:27.935 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentsWithEmployees
+
+2026-09-10 18:47:42.587 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:47:42.588 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:47:42.882 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.308 seconds (process running for 3572.881)
+2026-09-10 18:47:45.429 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:47:45.429 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:47:45.667 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.25 seconds (process running for 3575.666)
+2026-09-10 18:47:58.415 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewdepartmentwithtwoormoreemployees
+2026-09-10 18:47:58.417 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithTwoOrMoreEmployees
+2026-09-10 18:47:58.433 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithTwoOrMoreEmployees
+
+2026-09-10 18:47:58.434 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewdepartmentwithtwoormoreemployees
+
+2026-09-10 18:48:59.121 [http-nio-8080-exec-3] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.addEmployee
+2026-09-10 18:48:59.128 [http-nio-8080-exec-3] INFO  c.e.service.EmployeeServiceImpl - Leaving com.example.service.EmployeeServiceImpl.addEmployee
+
+2026-09-10 18:49:24.730 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:49:24.730 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:49:24.971 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.254 seconds (process running for 3674.97)
+2026-09-10 18:49:42.665 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:49:42.666 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:49:42.945 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.3 seconds (process running for 3692.944)
+2026-09-10 18:49:45.055 [http-nio-8080-exec-1] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.findByDepartmentId
+2026-09-10 18:49:45.086 [http-nio-8080-exec-1] INFO  c.e.service.EmployeeServiceImpl - Leaving com.example.service.EmployeeServiceImpl.findByDepartmentId
+
+2026-09-10 18:50:47.666 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:50:47.666 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:50:47.907 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.253 seconds (process running for 3757.906)
+2026-09-10 18:50:57.537 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:50:57.538 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:50:57.782 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.258 seconds (process running for 3767.781)
+2026-09-10 18:51:34.936 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:51:34.936 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:51:35.171 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.247 seconds (process running for 3805.17)
+2026-09-10 18:51:37.826 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 15496 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-10 18:51:37.826 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-10 18:51:38.073 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.263 seconds (process running for 3808.071)
+2026-09-10 18:52:11.218 [http-nio-8080-exec-1] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.addEmployee

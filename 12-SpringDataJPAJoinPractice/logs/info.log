@@ -1,0 +1,154 @@
+2026-09-11 11:36:17.933 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 21624 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-11 11:36:17.942 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 11:36:23.176 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 5.923 seconds (process running for 6.714)
+2026-09-11 11:37:02.450 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 21624 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-11 11:37:02.455 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 11:37:03.430 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.071 seconds (process running for 46.967)
+2026-09-11 21:04:46.740 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 31500 (C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Documents\workspace-spring-tools-for-eclipse-5.3.0.RELEASE\SpringDataJPAJoinPractice)
+2026-09-11 21:04:46.743 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-09-11 21:04:54.637 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 8.586 seconds (process running for 9.315)
+2026-09-11 21:07:26.745 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.addDepartment
+2026-09-11 21:07:26.755 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.addDepartment
+2026-09-11 21:07:26.872 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.addDepartment
+
+2026-09-11 21:07:26.882 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.addDepartment
+
+2026-09-11 21:08:08.810 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.addDepartment
+2026-09-11 21:08:08.814 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.addDepartment
+2026-09-11 21:08:08.821 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.addDepartment
+
+2026-09-11 21:08:08.835 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.addDepartment
+
+2026-09-11 21:08:19.489 [http-nio-8080-exec-3] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartments
+2026-09-11 21:08:19.491 [http-nio-8080-exec-3] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartments
+2026-09-11 21:08:19.635 [http-nio-8080-exec-3] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartments
+
+2026-09-11 21:08:19.637 [http-nio-8080-exec-3] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartments
+
+2026-09-11 21:08:32.699 [http-nio-8080-exec-4] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentById
+2026-09-11 21:08:32.703 [http-nio-8080-exec-4] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentById
+2026-09-11 21:08:32.725 [http-nio-8080-exec-4] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentById
+
+2026-09-11 21:08:32.760 [http-nio-8080-exec-4] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentById
+
+2026-09-11 21:08:37.422 [http-nio-8080-exec-5] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentById
+2026-09-11 21:08:37.424 [http-nio-8080-exec-5] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentById
+2026-09-11 21:08:37.432 [http-nio-8080-exec-5] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentById
+
+2026-09-11 21:08:37.433 [http-nio-8080-exec-5] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentById
+
+2026-09-11 21:08:48.930 [http-nio-8080-exec-6] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentsWithNoEmployees
+2026-09-11 21:08:48.932 [http-nio-8080-exec-6] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithNoEmployees
+2026-09-11 21:08:49.006 [http-nio-8080-exec-6] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithNoEmployees
+
+2026-09-11 21:08:49.007 [http-nio-8080-exec-6] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentsWithNoEmployees
+
+2026-09-11 21:08:59.062 [http-nio-8080-exec-7] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentsWithEmployees
+2026-09-11 21:08:59.063 [http-nio-8080-exec-7] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithAtLeastOneEmployees
+2026-09-11 21:08:59.073 [http-nio-8080-exec-7] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithAtLeastOneEmployees
+
+2026-09-11 21:08:59.078 [http-nio-8080-exec-7] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentsWithEmployees
+
+2026-09-11 21:09:08.615 [http-nio-8080-exec-9] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewdepartmentwithtwoormoreemployees
+2026-09-11 21:09:08.616 [http-nio-8080-exec-9] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithTwoOrMoreEmployees
+2026-09-11 21:09:08.645 [http-nio-8080-exec-9] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithTwoOrMoreEmployees
+
+2026-09-11 21:09:08.648 [http-nio-8080-exec-9] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewdepartmentwithtwoormoreemployees
+
+2026-09-11 21:10:09.511 [http-nio-8080-exec-10] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.addEmployee
+2026-09-11 21:10:09.521 [http-nio-8080-exec-10] INFO  c.e.service.EmployeeServiceImpl - Leaving com.example.service.EmployeeServiceImpl.addEmployee
+
+2026-09-11 21:10:35.225 [http-nio-8080-exec-1] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.findByDepartmentId
+2026-09-11 21:10:35.274 [http-nio-8080-exec-1] INFO  c.e.service.EmployeeServiceImpl - Leaving com.example.service.EmployeeServiceImpl.findByDepartmentId
+
+2026-11-19 17:23:16.209 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:23:16.213 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:23:24.483 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 8.885 seconds (process running for 9.713)
+2026-11-19 17:25:55.028 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.addDepartment
+2026-11-19 17:25:55.048 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.addDepartment
+2026-11-19 17:25:55.210 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.addDepartment
+
+2026-11-19 17:25:55.222 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.addDepartment
+
+2026-11-19 17:26:13.151 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:26:13.155 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:26:14.214 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.133 seconds (process running for 179.443)
+2026-11-19 17:26:44.482 [http-nio-8080-exec-4] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.addDepartment
+2026-11-19 17:26:44.486 [http-nio-8080-exec-4] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.addDepartment
+2026-11-19 17:26:44.491 [http-nio-8080-exec-4] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.addDepartment
+
+2026-11-19 17:26:44.501 [http-nio-8080-exec-4] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.addDepartment
+
+2026-11-19 17:26:55.670 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:26:55.670 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:26:56.687 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.077 seconds (process running for 221.916)
+2026-11-19 17:27:31.303 [http-nio-8080-exec-2] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.addEmployee
+2026-11-19 17:27:31.401 [http-nio-8080-exec-2] INFO  c.e.service.EmployeeServiceImpl - Leaving com.example.service.EmployeeServiceImpl.addEmployee
+
+2026-11-19 17:27:57.986 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:27:57.988 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:27:58.979 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.053 seconds (process running for 284.208)
+2026-11-19 17:28:23.610 [http-nio-8080-exec-2] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.addEmployee
+2026-11-19 17:28:41.565 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:28:41.566 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:28:42.422 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.907 seconds (process running for 327.652)
+2026-11-19 17:29:25.076 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartments
+2026-11-19 17:29:25.079 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartments
+2026-11-19 17:29:25.202 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartments
+
+2026-11-19 17:29:25.205 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartments
+
+2026-11-19 17:29:40.312 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:29:40.314 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:29:41.263 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.995 seconds (process running for 386.493)
+2026-11-19 17:29:51.341 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentById
+2026-11-19 17:29:51.343 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentById
+2026-11-19 17:29:51.353 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentById
+
+2026-11-19 17:29:51.355 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentById
+
+2026-11-19 17:30:00.373 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:30:00.377 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:30:00.970 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.645 seconds (process running for 406.2)
+2026-11-19 17:30:08.911 [http-nio-8080-exec-3] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentsWithNoEmployees
+2026-11-19 17:30:08.913 [http-nio-8080-exec-3] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithNoEmployees
+2026-11-19 17:30:09.028 [http-nio-8080-exec-3] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithNoEmployees
+
+2026-11-19 17:30:09.030 [http-nio-8080-exec-3] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentsWithNoEmployees
+
+2026-11-19 17:30:16.915 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:30:16.916 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:30:17.770 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.913 seconds (process running for 423.0)
+2026-11-19 17:30:38.794 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:30:38.794 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:30:39.878 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.121 seconds (process running for 445.107)
+2026-11-19 17:30:41.567 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewDepartmentsWithEmployees
+2026-11-19 17:30:41.569 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithAtLeastOneEmployees
+2026-11-19 17:30:41.589 [http-nio-8080-exec-2] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithAtLeastOneEmployees
+
+2026-11-19 17:30:41.591 [http-nio-8080-exec-2] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewDepartmentsWithEmployees
+
+2026-11-19 17:30:49.557 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:30:49.558 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:30:50.405 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.885 seconds (process running for 455.635)
+2026-11-19 17:30:59.275 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:30:59.275 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:31:00.487 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.276 seconds (process running for 465.717)
+2026-11-19 17:31:02.073 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Inside com.example.controller.DepartmentController.viewdepartmentwithtwoormoreemployees
+2026-11-19 17:31:02.075 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Inside com.example.service.DepartmentServiceImpl.viewDepartmentsWithTwoOrMoreEmployees
+2026-11-19 17:31:02.110 [http-nio-8080-exec-1] INFO  c.e.service.DepartmentServiceImpl - Leaving com.example.service.DepartmentServiceImpl.viewDepartmentsWithTwoOrMoreEmployees
+
+2026-11-19 17:31:02.114 [http-nio-8080-exec-1] INFO  c.e.controller.DepartmentController - Leaving com.example.controller.DepartmentController.viewdepartmentwithtwoormoreemployees
+
+2026-11-19 17:31:12.284 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:31:12.285 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:31:13.344 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 1.117 seconds (process running for 478.574)
+2026-11-19 17:31:33.778 [http-nio-8080-exec-2] INFO  c.e.service.EmployeeServiceImpl - Inside com.example.service.EmployeeServiceImpl.findByDepartmentId
+2026-11-19 17:31:33.856 [http-nio-8080-exec-2] INFO  c.e.service.EmployeeServiceImpl - Leaving com.example.service.EmployeeServiceImpl.findByDepartmentId
+
+2026-11-19 17:31:43.556 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.3 with PID 28564 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:31:43.557 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:31:44.394 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 0.882 seconds (process running for 509.624)
+2026-11-19 17:51:55.919 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Starting SpringDataJpaJoinPracticeApplication using Java 25.0.2 with PID 35904 (C:\Users\kapil\Downloads\SpringDataJPAJoinPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJPAJoinPractice)
+2026-11-19 17:51:55.922 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 17:52:02.193 [restartedMain] INFO  c.e.SpringDataJpaJoinPracticeApplication - Started SpringDataJpaJoinPracticeApplication in 6.849 seconds (process running for 7.274)
