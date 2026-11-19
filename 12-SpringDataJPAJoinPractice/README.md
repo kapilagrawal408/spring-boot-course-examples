@@ -24,7 +24,7 @@ The Twelfth Spring Boot application. It demonstrates Join operations in the Spri
 
 ```
 SET DB_USER=database-username
-SET DB_USER=database-user-password
+SET DB_PASSWORD=database-user-password
 SET DB_NAME=database-name
 mvnw.cmd clean spring-boot:run
 ```
