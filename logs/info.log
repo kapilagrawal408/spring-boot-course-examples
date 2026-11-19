@@ -1,0 +1,39 @@
+2026-11-19 21:19:06.056 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - Starting SpringDataJpaQbePagingSortingPracticeApplication using Java 25.0.3 with PID 4060 (C:\Users\kapil\Downloads\SpringDataJpaQBEPagingSortingPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJpaQBEPagingSortingPractice)
+2026-11-19 21:19:06.067 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 21:19:10.417 [restartedMain] INFO  c.e.service.JobPostingServiceImpl - Auto-populating 10 Job Postings for QBE Testing...
+2026-11-19 21:19:10.488 [restartedMain] INFO  c.e.service.JobPostingServiceImpl - Successfully inserted 10 Job Postings.
+2026-11-19 21:19:11.289 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - Started SpringDataJpaQbePagingSortingPracticeApplication in 5.793 seconds (process running for 6.472)
+2026-11-19 21:21:20.755 [http-nio-8080-exec-3] INFO  c.e.controller.JobPostingController - Inside com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:21:20.755 [http-nio-8080-exec-3] INFO  c.e.service.JobPostingServiceImpl - Inside com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:21:20.846 [http-nio-8080-exec-3] INFO  c.e.service.JobPostingServiceImpl - Leaving com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:21:20.846 [http-nio-8080-exec-3] INFO  c.e.controller.JobPostingController - Leaving com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:21:54.146 [http-nio-8080-exec-5] INFO  c.e.controller.JobPostingController - Inside com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:21:54.146 [http-nio-8080-exec-5] INFO  c.e.service.JobPostingServiceImpl - Inside com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:21:54.167 [http-nio-8080-exec-5] INFO  c.e.service.JobPostingServiceImpl - Leaving com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:21:54.167 [http-nio-8080-exec-5] INFO  c.e.controller.JobPostingController - Leaving com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:22:25.474 [http-nio-8080-exec-7] INFO  c.e.controller.JobPostingController - Inside com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:22:25.474 [http-nio-8080-exec-7] INFO  c.e.service.JobPostingServiceImpl - Inside com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:22:25.485 [http-nio-8080-exec-7] INFO  c.e.service.JobPostingServiceImpl - Leaving com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:22:25.486 [http-nio-8080-exec-7] INFO  c.e.controller.JobPostingController - Leaving com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:23:04.985 [http-nio-8080-exec-9] INFO  c.e.controller.JobPostingController - Inside com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:23:04.985 [http-nio-8080-exec-9] INFO  c.e.service.JobPostingServiceImpl - Inside com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:23:05.001 [http-nio-8080-exec-9] INFO  c.e.service.JobPostingServiceImpl - Leaving com.example.service.JobPostingServiceImpl.searchJobs
+2026-11-19 21:23:05.001 [http-nio-8080-exec-9] INFO  c.e.controller.JobPostingController - Leaving com.example.controller.JobPostingController.searchJobs
+2026-11-19 21:28:06.481 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - Starting SpringDataJpaQbePagingSortingPracticeApplication using Java 25.0.3 with PID 4060 (C:\Users\kapil\Downloads\SpringDataJpaQBEPagingSortingPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJpaQBEPagingSortingPractice)
+2026-11-19 21:28:06.482 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 21:28:07.507 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - Started SpringDataJpaQbePagingSortingPracticeApplication in 1.096 seconds (process running for 542.69)
+2026-11-19 21:29:20.376 [http-nio-8080-exec-2] INFO  c.e.c.ResidentialPlotController - Inside com.example.controller.ResidentialPlotController.getPlots
+2026-11-19 21:29:20.379 [http-nio-8080-exec-2] INFO  c.e.s.ResidentialPlotServiceImpl - Inside com.example.service.ResidentialPlotServiceImpl.getMostExpensivePropertiesPageWiseSorted
+2026-11-19 21:29:20.421 [http-nio-8080-exec-2] INFO  c.e.s.ResidentialPlotServiceImpl - Leaving com.example.service.ResidentialPlotServiceImpl.getMostExpensivePropertiesPageWiseSorted
+2026-11-19 21:29:20.423 [http-nio-8080-exec-2] INFO  c.e.c.ResidentialPlotController - Leaving com.example.controller.ResidentialPlotController.getPlots
+2026-11-19 21:29:38.797 [http-nio-8080-exec-5] INFO  c.e.c.ResidentialPlotController - Inside com.example.controller.ResidentialPlotController.getPlots
+2026-11-19 21:29:38.800 [http-nio-8080-exec-5] INFO  c.e.s.ResidentialPlotServiceImpl - Inside com.example.service.ResidentialPlotServiceImpl.getMostExpensivePropertiesPageWiseSorted
+2026-11-19 21:29:38.812 [http-nio-8080-exec-5] INFO  c.e.s.ResidentialPlotServiceImpl - Leaving com.example.service.ResidentialPlotServiceImpl.getMostExpensivePropertiesPageWiseSorted
+2026-11-19 21:29:38.813 [http-nio-8080-exec-5] INFO  c.e.c.ResidentialPlotController - Leaving com.example.controller.ResidentialPlotController.getPlots
+2026-11-19 21:29:56.059 [http-nio-8080-exec-8] INFO  c.e.c.ResidentialPlotController - Inside com.example.controller.ResidentialPlotController.getPlots
+2026-11-19 21:29:56.062 [http-nio-8080-exec-8] INFO  c.e.s.ResidentialPlotServiceImpl - Inside com.example.service.ResidentialPlotServiceImpl.getMostExpensivePropertiesPageWiseSorted
+2026-11-19 21:30:04.529 [http-nio-8080-exec-9] INFO  c.e.c.ResidentialPlotController - Inside com.example.controller.ResidentialPlotController.getPlots
+2026-11-19 21:30:04.541 [http-nio-8080-exec-9] INFO  c.e.s.ResidentialPlotServiceImpl - Inside com.example.service.ResidentialPlotServiceImpl.getMostExpensivePropertiesPageWiseSorted
+2026-11-19 21:35:55.621 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - Starting SpringDataJpaQbePagingSortingPracticeApplication using Java 25.0.2 with PID 17260 (C:\Users\kapil\Downloads\SpringDataJpaQBEPagingSortingPractice\target\classes started by kapil in C:\Users\kapil\Downloads\SpringDataJpaQBEPagingSortingPractice)
+2026-11-19 21:35:55.624 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-19 21:36:00.960 [restartedMain] INFO  c.e.SpringDataJpaQbePagingSortingPracticeApplication - Started SpringDataJpaQbePagingSortingPracticeApplication in 5.983 seconds (process running for 6.417)

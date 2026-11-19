@@ -1,0 +1,10 @@
+2026-11-19 21:30:06.169 [http-nio-8080-exec-3] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "pageNumber" : "Page number must be a positive number",
+  "pageSize" : "Page size must be a positive number"
+}
+2026-11-19 21:36:10.924 [http-nio-8080-exec-1] ERROR c.e.exception.GlobalExceptionHandler - Validation failed! here is the detail:
+{
+  "pageNumber" : "Page number must be a positive number",
+  "pageSize" : "Page size must be a positive number"
+}
