@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: SpringDataJPAJoinPractice
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/${DB_NAME:springdatajpajoinpractice}
+    username: ${DB_USER:root}
+    password: ${DB_PASSWORD:root}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  web:
+    resources:
+      add-mappings: false
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    url: /api-docs
+    operationsSorter: method
