@@ -189,11 +189,9 @@ In browser hit: http://localhost:8080/h2-console
 
 Enter jdbc:h2:mem:58cfa7e1-dfd5-4ad0-9d82-a40020a53f0c in JDBC URL and click on test connection.
 
-![Login Image](docs\images\login.png)
+![Login Image](docs/images/login.png)
 
 
 This output before hitting http://localhost:8080/students/1 with DELETE method
 
-
-
-![Student Table Image](docs\images\SELECT.png)
+![Student Table Image](docs/images/SELECT.png)
