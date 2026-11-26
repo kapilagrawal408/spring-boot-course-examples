@@ -1,0 +1,36 @@
+2026-11-26 18:32:39.085 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Starting SpringAopInlinePointCutApplication using Java 25.0.2 with PID 20428 (C:\Users\kapil\Downloads\Spring_AOP_inline_point_cut\target\classes started by kapil in C:\Users\kapil\Downloads\Spring_AOP_inline_point_cut)
+2026-11-26 18:32:39.089 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-26 18:32:47.849 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Started SpringAopInlinePointCutApplication in 10.114 seconds (process running for 10.848)
+2026-11-26 18:33:20.529 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Starting SpringAopInlinePointCutApplication using Java 25.0.2 with PID 20428 (C:\Users\kapil\Downloads\Spring_AOP_inline_point_cut\target\classes started by kapil in C:\Users\kapil\Downloads\Spring_AOP_inline_point_cut)
+2026-11-26 18:33:20.530 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-26 18:33:21.930 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Started SpringAopInlinePointCutApplication in 1.472 seconds (process running for 44.929)
+2026-11-26 18:33:23.485 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Starting SpringAopInlinePointCutApplication using Java 25.0.2 with PID 20428 (C:\Users\kapil\Downloads\Spring_AOP_inline_point_cut\target\classes started by kapil in C:\Users\kapil\Downloads\Spring_AOP_inline_point_cut)
+2026-11-26 18:33:23.485 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-26 18:33:25.613 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Started SpringAopInlinePointCutApplication in 2.208 seconds (process running for 48.611)
+2026-11-26 18:33:58.650 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: add
+2026-11-26 18:33:59.810 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - [@AfterReturning] Successfully added AC. Database assigned ID: 1
+2026-11-26 18:33:59.811 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: add
+2026-11-26 18:34:36.850 [http-nio-8080-exec-5] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: add
+2026-11-26 18:34:36.860 [http-nio-8080-exec-5] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: add
+2026-11-26 18:35:03.976 [http-nio-8080-exec-8] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: searchByAnyDetails
+2026-11-26 18:35:03.982 [http-nio-8080-exec-8] INFO  com.example.aspect.AspectLogger - [@Around - START] Starting performance profiling for searchByAnyDetails
+2026-11-26 18:35:04.076 [http-nio-8080-exec-8] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: searchByAnyDetails
+2026-11-26 18:35:57.593 [http-nio-8080-exec-10] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: searchByAnyDetails
+2026-11-26 18:35:57.595 [http-nio-8080-exec-10] INFO  com.example.aspect.AspectLogger - [@Around - START] Starting performance profiling for searchByAnyDetails
+2026-11-26 18:35:57.607 [http-nio-8080-exec-10] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: searchByAnyDetails
+2026-11-26 18:35:57.607 [http-nio-8080-exec-10] INFO  com.example.aspect.AspectLogger - [@Around - END] searchByAnyDetails executed in 10 ms
+2026-11-26 18:36:45.091 [http-nio-8080-exec-4] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: searchByAnyDetails
+2026-11-26 18:36:45.094 [http-nio-8080-exec-4] INFO  com.example.aspect.AspectLogger - [@Around - START] Starting performance profiling for searchByAnyDetails
+2026-11-26 18:36:45.100 [http-nio-8080-exec-4] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: searchByAnyDetails
+2026-11-26 18:37:05.335 [http-nio-8080-exec-7] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: addOrUpdate
+2026-11-26 18:37:05.356 [http-nio-8080-exec-7] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: addOrUpdate
+2026-11-26 18:37:22.194 [http-nio-8080-exec-1] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: addOrUpdate
+2026-11-26 18:37:22.202 [http-nio-8080-exec-1] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: addOrUpdate
+2026-11-26 18:37:36.636 [http-nio-8080-exec-6] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: editPrice
+2026-11-26 18:37:36.641 [http-nio-8080-exec-6] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: editPrice
+2026-11-26 18:37:49.892 [http-nio-8080-exec-3] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: editPrice
+2026-11-26 18:37:49.900 [http-nio-8080-exec-3] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: editPrice
+2026-11-26 18:38:04.671 [http-nio-8080-exec-9] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: deleteAirConditionById
+2026-11-26 18:38:04.705 [http-nio-8080-exec-9] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: deleteAirConditionById
+2026-11-26 18:38:18.247 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - [@Before] Received request to execute endpoint: deleteAirConditionById
+2026-11-26 18:38:18.256 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - [@After] Service execution finished for: deleteAirConditionById

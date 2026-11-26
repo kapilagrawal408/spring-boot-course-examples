@@ -1,0 +1,1 @@
+2026-11-26 18:38:18.256 [http-nio-8080-exec-2] ERROR com.example.aspect.AspectLogger - [@AfterThrowing] Failed to delete AC in method deleteAirConditionById. Reason: Cannot delete. Air Conditioner with ID 999 not found.
