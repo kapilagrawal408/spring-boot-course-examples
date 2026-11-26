@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/Spring_Profiling_Demo
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update # In real prod, this is 'validate', but 'update' is fine for demo
+    show-sql: false # Turn off for performance in production
