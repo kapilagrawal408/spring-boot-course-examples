@@ -1,0 +1,11 @@
+2026-11-26 19:21:19.514 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Starting SpringAopInlinePointCutApplication using Java 25.0.2 with PID 43676 (C:\Users\kapil\Downloads\Spring_AOP_named_point_cut\target\classes started by kapil in C:\Users\kapil\Downloads\Spring_AOP_named_point_cut)
+2026-11-26 19:21:19.517 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - No active profile set, falling back to 1 default profile: "default"
+2026-11-26 19:21:24.551 [restartedMain] INFO  c.e.SpringAopInlinePointCutApplication - Started SpringAopInlinePointCutApplication in 5.733 seconds (process running for 6.291)
+2026-11-26 19:22:09.098 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - Enter: com.example.controller.AirConditionerController.editPrice() with argument[s] = [2, 45000.5]
+2026-11-26 19:22:09.120 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - Enter: com.example.service.AirConditionerServiceImpl.editPrice() with argument[s] = [2, 45000.5]
+2026-11-26 19:22:09.273 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - Exit: com.example.service.AirConditionerServiceImpl.editPrice() with result = AirConditionerDTO(id=2, deviceId=SS-AC-2002, companyName=Samsung, modelName=WindFree 1.5 Ton, price=45000.5, mfdDate=2023-06-20)
+2026-11-26 19:22:09.305 [http-nio-8080-exec-2] INFO  com.example.aspect.AspectLogger - Exit: com.example.controller.AirConditionerController.editPrice() with result = <200 OK OK,AirConditionerDTO(id=2, deviceId=SS-AC-2002, companyName=Samsung, modelName=WindFree 1.5 Ton, price=45000.5, mfdDate=2023-06-20),[]>
+2026-11-26 19:22:25.939 [http-nio-8080-exec-4] INFO  com.example.aspect.AspectLogger - Enter: com.example.controller.AirConditionerController.editPrice() with argument[s] = [999, 45000.5]
+2026-11-26 19:22:25.942 [http-nio-8080-exec-4] INFO  com.example.aspect.AspectLogger - Enter: com.example.service.AirConditionerServiceImpl.editPrice() with argument[s] = [999, 45000.5]
+2026-11-26 19:22:43.238 [http-nio-8080-exec-8] INFO  com.example.aspect.AspectLogger - Enter: com.example.controller.AirConditionerController.deleteAirConditionById() with argument[s] = [999]
+2026-11-26 19:22:43.243 [http-nio-8080-exec-8] INFO  com.example.aspect.AspectLogger - Enter: com.example.service.AirConditionerServiceImpl.deleteAirConditionById() with argument[s] = [999]
