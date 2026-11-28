@@ -1,0 +1,2 @@
+2026-09-24 16:03:18.531 [http-nio-8080-exec-1] ERROR c.e.aspect.RestClientLoggingAspect - Upstream 4xx | method=PostClientController.getPostById(..) | status=404 NOT_FOUND | body={}
+2026-09-24 16:05:27.732 [http-nio-8080-exec-4] ERROR c.e.aspect.RestClientLoggingAspect - Upstream 4xx | method=PostClientController.getPostById(..) | status=404 NOT_FOUND | body={}
